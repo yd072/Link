@@ -6,20 +6,21 @@
 >
 > <br/>
 >
-> **Last updated:** Fri, 22 Aug 2025 01:26:44 GMT
+> **Last updated:** Fri, 22 Aug 2025 21:27:22 GMT
 >
 > <br/>
 >
-> **Next update:** Sun, 24 Aug 2025 01:26:44 GMT
+> **Next update:** Sun, 24 Aug 2025 21:27:22 GMT
 >
 > <br/>
+>
 
 </br>
 
 ## 📊 Summary
 
 **🔹 Total working proxies:** 45  
-**🔹 Countries covered:** 7  
+**🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
 **🔹 Success methods:** TCP (45)
 
@@ -28,8 +29,8 @@
 ## 🔌 Ports Distribution
 
 | Port | Count | Percentage |
-| ---- | ----- | ---------- |
-| 443  | 45    | 100.0%     |
+|------|-------|------------|
+| 443  | 45     | 100.0%     |
 
 <br/>
 
@@ -37,85 +38,125 @@
 
 <br/>
 
-### 🇳🇱 The Netherlands (29 proxies)
+### 🇳🇱 The Netherlands (18 proxies)
 
-| Proxy IP         | City      | ISP / Organization                     | Method |
-| ---------------- | --------- | -------------------------------------- | ------ |
-| `146.0.73.211`   | Amsterdam | AS57043 HOSTKEY B.V.                   | TCP    |
-| `176.222.54.31`  | Amsterdam | AS57043 HOSTKEY B.V.                   | TCP    |
-| `178.208.76.68`  | Amsterdam | AS216139 Iron Hosting Centre LTD       | TCP    |
-| `185.94.164.107` | Amsterdam | AS200740 FIRST SERVER LIMITED          | TCP    |
-| `188.116.26.216` | Amsterdam | AS58061 Scalaxy B.V.                   | TCP    |
-| `194.26.232.203` | Oude Meer | AS211381 Podaon SIA                    | TCP    |
-| `212.34.153.65`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `31.44.2.57`     | Amsterdam | AS208951 ITGLOBAL.COM                  | TCP    |
-| `37.1.203.192`   | Amsterdam | AS58061 Scalaxy B.V.                   | TCP    |
-| `37.1.206.30`    | Amsterdam | AS58061 Scalaxy B.V.                   | TCP    |
-| `5.2.75.70`      | Amsterdam | AS60404 The Infrastructure Group B.V.  | TCP    |
-| `5.35.46.16`     | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `5.35.69.122`    | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `66.151.42.104`  | Amsterdam | AS57043 HOSTKEY B.V.                   | TCP    |
-| `77.221.155.136` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD        | TCP    |
-| `77.238.226.178` | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `77.238.233.141` | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `77.238.242.168` | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `77.238.247.131` | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `77.238.247.93`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `79.137.205.127` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD        | TCP    |
-| `89.110.109.64`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `89.110.120.29`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `89.110.80.121`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `89.110.84.203`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `89.150.35.129`  | Amsterdam | AS216154 CLODO CLOUD SERVICE CO. L.L.C | TCP    |
-| `89.208.105.25`  | Amsterdam | AS210644 AEZA INTERNATIONAL LTD        | TCP    |
-| `91.201.112.15`  | Amsterdam | AS216071 SERVERS TECH FZCO             | TCP    |
-| `93.183.69.31`   | Amsterdam | AS43581 ZTV CORP LLC                   | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `109.237.98.214` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `188.116.26.216` | Amsterdam | AS58061 Scalaxy B.V. | TCP |
+| `192.236.249.104` | Amsterdam | AS54290 Hostwinds LLC. | TCP |
+| `192.236.249.94` | Amsterdam | AS54290 Hostwinds LLC. | TCP |
+| `194.164.32.32` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `195.133.38.227` | Amsterdam | AS216475 NKtelecom INC | TCP |
+| `195.200.26.225` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `212.34.148.31` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `212.34.152.224` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `37.1.206.30` | Amsterdam | AS58061 Scalaxy B.V. | TCP |
+| `37.1.221.155` | Meppel | AS58061 Scalaxy B.V. | TCP |
+| `38.180.133.83` | Amsterdam | AS58061 Scalaxy B.V. | TCP |
+| `45.8.145.223` | Meppel | AS44477 PQ HOSTING PLUS S.R.L. | TCP |
+| `5.182.86.130` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `86.107.197.239` | Dronten | AS202448 MVPS LTD | TCP |
+| `93.183.124.129` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `93.183.91.227` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `95.179.140.212` | Amsterdam | AS20473 The Constant Company, LLC | TCP |
 
 ### 🇩🇪 Germany (7 proxies)
 
-| Proxy IP         | City              | ISP / Organization          | Method |
-| ---------------- | ----------------- | --------------------------- | ------ |
-| `116.202.31.174` | Falkenstein       | AS24940 Hetzner Online GmbH | TCP    |
-| `165.227.134.63` | Frankfurt am Main | AS14061 DigitalOcean, LLC   | TCP    |
-| `18.156.209.101` | Frankfurt am Main | AS16509 Amazon.com, Inc.    | TCP    |
-| `18.159.105.97`  | Frankfurt am Main | AS16509 Amazon.com, Inc.    | TCP    |
-| `195.234.62.215` | Frankfurt am Main | AS202422 G-Core Labs S.A.   | TCP    |
-| `3.68.31.54`     | Frankfurt am Main | AS16509 Amazon.com, Inc.    | TCP    |
-| `77.105.147.253` | Frankfurt am Main | AS211522 Hypercore Ltd      | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `159.69.92.30` | Nuremberg | AS24940 Hetzner Online GmbH | TCP |
+| `185.103.100.101` | Frankfurt am Main | AS215590 DpkgSoft International Limited | TCP |
+| `213.226.68.142` | Frankfurt am Main | AS56630 Melbikomas UAB | TCP |
+| `35.157.240.237` | Frankfurt am Main | AS16509 Amazon.com, Inc. | TCP |
+| `37.1.194.7` | Frankfurt am Main | AS28753 Leaseweb Deutschland GmbH | TCP |
+| `89.169.54.138` | Frankfurt Am Main | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `94.23.163.46` | Saarbrücken | AS16276 OVH SAS | TCP |
 
-### 🇳🇱 Netherlands (3 proxies)
+### 🇸🇪 Sweden (4 proxies)
 
-| Proxy IP          | City      | ISP / Organization              | Method |
-| ----------------- | --------- | ------------------------------- | ------ |
-| `185.225.201.194` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP    |
-| `193.33.153.151`  | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP    |
-| `82.115.5.199`    | Amsterdam | AS42532 SIA VEESP               | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `46.226.164.147` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `89.169.35.39` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `89.22.225.144` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `89.22.226.118` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
-### 🇬🇧 United Kingdom (3 proxies)
+### 🇫🇮 Finland (3 proxies)
 
-| Proxy IP         | City      | ISP / Organization       | Method |
-| ---------------- | --------- | ------------------------ | ------ |
-| `178.32.58.147`  | Southwark | AS16276 OVH SAS          | TCP    |
-| `91.149.202.142` | London    | AS26383 Baxet Group Inc. | TCP    |
-| `91.149.238.88`  | London    | AS26383 Baxet Group Inc. | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `85.192.61.212` | Helsinki | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `95.181.167.206` | Helsinki | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `95.214.9.72` | Helsinki | AS200740 FIRST SERVER LIMITED | TCP |
 
-### 🇦🇺 Australia (1 proxies)
+### 🇨🇭 Switzerland (2 proxies)
 
-| Proxy IP       | City   | ISP / Organization                                 | Method |
-| -------------- | ------ | -------------------------------------------------- | ------ |
-| `125.7.24.251` | Sydney | AS17477 Macquarie Technology Operations Pty Limite | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `38.180.161.11` | Zurich | AS51852 Private Layer INC | TCP |
+| `91.90.193.24` | Geneva | AS204957 GREEN FLOID LLC | TCP |
 
-### 🇦🇹 Austria (1 proxies)
+### 🇬🇧 United Kingdom (2 proxies)
 
-| Proxy IP     | City | ISP / Organization   | Method |
-| ------------ | ---- | -------------------- | ------ |
-| `94.177.8.5` | Wien | AS40994 Hohl IT e.U. | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `185.92.74.88` | London | AS200904 FOXCLOUD LLP | TCP |
+| `93.114.133.159` | Maidenhead | AS202448 MVPS LTD | TCP |
 
-### 🇯🇵 Japan (1 proxies)
+### 🇧🇬 Bulgaria (1 proxies)
 
-| Proxy IP          | City  | ISP / Organization         | Method |
-| ----------------- | ----- | -------------------------- | ------ |
-| `141.147.147.180` | Osaka | AS31898 Oracle Corporation | TCP    |
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `85.217.171.231` | Sofia | AS44901 Belcloud LTD | TCP |
+
+### 🇩🇰 Denmark (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `45.136.70.204` | Asperup | AS44803 Webdock.io ApS | TCP |
+
+### 🇫🇷 France (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `194.36.170.247` | Paris | AS56971 AS56971 Cloud | TCP |
+
+### 🇮🇹 Italy (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `91.201.67.6` | Palermo | AS56630 Melbikomas UAB | TCP |
+
+### 🌍 Latvia (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `31.128.33.253` | Riga | AS9002 RETN Limited | TCP |
+
+### 🇳🇱 Netherlands (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `185.225.201.210` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
+
+### 🇷🇺 Russia (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `77.232.143.3` | Moscow | AS210644 AEZA INTERNATIONAL LTD | TCP |
+
+### 🌍 Serbia (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `38.180.100.80` | Belgrade | AS9009 M247 Europe SRL | TCP |
+
+### 🇺🇸 United States (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `34.82.76.253` | The Dalles | AS396982 Google LLC | TCP |
 
 <br/>
 
@@ -125,51 +166,51 @@
 <summary>Click to expand RAW data</summary>
 
 ```
-125.7.24.251
-94.177.8.5
-116.202.31.174
-165.227.134.63
-18.156.209.101
-18.159.105.97
-195.234.62.215
-3.68.31.54
-77.105.147.253
-141.147.147.180
-185.225.201.194
-193.33.153.151
-82.115.5.199
-146.0.73.211
-176.222.54.31
-178.208.76.68
-185.94.164.107
+85.217.171.231
+45.136.70.204
+85.192.61.212
+95.181.167.206
+95.214.9.72
+194.36.170.247
+159.69.92.30
+185.103.100.101
+213.226.68.142
+35.157.240.237
+37.1.194.7
+89.169.54.138
+94.23.163.46
+91.201.67.6
+31.128.33.253
+185.225.201.210
+77.232.143.3
+38.180.100.80
+46.226.164.147
+89.169.35.39
+89.22.225.144
+89.22.226.118
+38.180.161.11
+91.90.193.24
+109.237.98.214
 188.116.26.216
-194.26.232.203
-212.34.153.65
-31.44.2.57
-37.1.203.192
+192.236.249.104
+192.236.249.94
+194.164.32.32
+195.133.38.227
+195.200.26.225
+212.34.148.31
+212.34.152.224
 37.1.206.30
-5.2.75.70
-5.35.46.16
-5.35.69.122
-66.151.42.104
-77.221.155.136
-77.238.226.178
-77.238.233.141
-77.238.242.168
-77.238.247.131
-77.238.247.93
-79.137.205.127
-89.110.109.64
-89.110.120.29
-89.110.80.121
-89.110.84.203
-89.150.35.129
-89.208.105.25
-91.201.112.15
-93.183.69.31
-178.32.58.147
-91.149.202.142
-91.149.238.88
+37.1.221.155
+38.180.133.83
+45.8.145.223
+5.182.86.130
+86.107.197.239
+93.183.124.129
+93.183.91.227
+95.179.140.212
+185.92.74.88
+93.114.133.159
+34.82.76.253
 ```
 
 </details>
@@ -184,70 +225,88 @@
 ```json
 [
   {
-    "ip": "125.7.24.251",
+    "ip": "85.217.171.231",
     "port": "443",
     "method": "TCP",
-    "country": "Australia",
-    "city": "Sydney",
-    "as": "AS17477 Macquarie Technology Operations Pty Limited",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "as": "AS44901 Belcloud LTD",
     "proxy": "unknown"
   },
   {
-    "ip": "94.177.8.5",
+    "ip": "45.136.70.204",
     "port": "443",
     "method": "TCP",
-    "country": "Austria",
-    "city": "Wien",
-    "as": "AS40994 Hohl IT e.U.",
+    "country": "Denmark",
+    "city": "Asperup",
+    "as": "AS44803 Webdock.io ApS",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "85.192.61.212",
+    "port": "443",
+    "method": "TCP",
+    "country": "Finland",
+    "city": "Helsinki",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
     "proxy": true
   },
   {
-    "ip": "116.202.31.174",
+    "ip": "95.181.167.206",
+    "port": "443",
+    "method": "TCP",
+    "country": "Finland",
+    "city": "Helsinki",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
+  },
+  {
+    "ip": "95.214.9.72",
+    "port": "443",
+    "method": "TCP",
+    "country": "Finland",
+    "city": "Helsinki",
+    "as": "AS200740 FIRST SERVER LIMITED",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "194.36.170.247",
+    "port": "443",
+    "method": "TCP",
+    "country": "France",
+    "city": "Paris",
+    "as": "AS56971 AS56971 Cloud",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "159.69.92.30",
     "port": "443",
     "method": "TCP",
     "country": "Germany",
-    "city": "Falkenstein",
+    "city": "Nuremberg",
     "as": "AS24940 Hetzner Online GmbH",
     "proxy": "unknown"
   },
   {
-    "ip": "165.227.134.63",
+    "ip": "185.103.100.101",
     "port": "443",
     "method": "TCP",
     "country": "Germany",
     "city": "Frankfurt am Main",
-    "as": "AS14061 DigitalOcean, LLC",
+    "as": "AS215590 DpkgSoft International Limited",
     "proxy": "unknown"
   },
   {
-    "ip": "18.156.209.101",
+    "ip": "213.226.68.142",
     "port": "443",
     "method": "TCP",
     "country": "Germany",
     "city": "Frankfurt am Main",
-    "as": "AS16509 Amazon.com, Inc.",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "18.159.105.97",
-    "port": "443",
-    "method": "TCP",
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "as": "AS16509 Amazon.com, Inc.",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "195.234.62.215",
-    "port": "443",
-    "method": "TCP",
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "as": "AS202422 G-Core Labs S.A.",
+    "as": "AS56630 Melbikomas UAB",
     "proxy": true
   },
   {
-    "ip": "3.68.31.54",
+    "ip": "35.157.240.237",
     "port": "443",
     "method": "TCP",
     "country": "Germany",
@@ -256,25 +315,52 @@
     "proxy": "unknown"
   },
   {
-    "ip": "77.105.147.253",
+    "ip": "37.1.194.7",
     "port": "443",
     "method": "TCP",
     "country": "Germany",
     "city": "Frankfurt am Main",
-    "as": "AS211522 Hypercore Ltd",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "141.147.147.180",
-    "port": "443",
-    "method": "TCP",
-    "country": "Japan",
-    "city": "Osaka",
-    "as": "AS31898 Oracle Corporation",
+    "as": "AS28753 Leaseweb Deutschland GmbH",
     "proxy": true
   },
   {
-    "ip": "185.225.201.194",
+    "ip": "89.169.54.138",
+    "port": "443",
+    "method": "TCP",
+    "country": "Germany",
+    "city": "Frankfurt Am Main",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
+  },
+  {
+    "ip": "94.23.163.46",
+    "port": "443",
+    "method": "TCP",
+    "country": "Germany",
+    "city": "Saarbrücken",
+    "as": "AS16276 OVH SAS",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "91.201.67.6",
+    "port": "443",
+    "method": "TCP",
+    "country": "Italy",
+    "city": "Palermo",
+    "as": "AS56630 Melbikomas UAB",
+    "proxy": true
+  },
+  {
+    "ip": "31.128.33.253",
+    "port": "443",
+    "method": "TCP",
+    "country": "Latvia",
+    "city": "Riga",
+    "as": "AS9002 RETN Limited",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "185.225.201.210",
     "port": "443",
     "method": "TCP",
     "country": "Netherlands",
@@ -283,58 +369,85 @@
     "proxy": "unknown"
   },
   {
-    "ip": "193.33.153.151",
+    "ip": "77.232.143.3",
     "port": "443",
     "method": "TCP",
-    "country": "Netherlands",
-    "city": "Amsterdam",
+    "country": "Russia",
+    "city": "Moscow",
     "as": "AS210644 AEZA INTERNATIONAL LTD",
     "proxy": true
   },
   {
-    "ip": "82.115.5.199",
+    "ip": "38.180.100.80",
     "port": "443",
     "method": "TCP",
-    "country": "Netherlands",
-    "city": "Amsterdam",
-    "as": "AS42532 SIA VEESP",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "as": "AS9009 M247 Europe SRL",
+    "proxy": true
+  },
+  {
+    "ip": "46.226.164.147",
+    "port": "443",
+    "method": "TCP",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
+  },
+  {
+    "ip": "89.169.35.39",
+    "port": "443",
+    "method": "TCP",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
+  },
+  {
+    "ip": "89.22.225.144",
+    "port": "443",
+    "method": "TCP",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
+  },
+  {
+    "ip": "89.22.226.118",
+    "port": "443",
+    "method": "TCP",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
+  },
+  {
+    "ip": "38.180.161.11",
+    "port": "443",
+    "method": "TCP",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "as": "AS51852 Private Layer INC",
     "proxy": "unknown"
   },
   {
-    "ip": "146.0.73.211",
+    "ip": "91.90.193.24",
+    "port": "443",
+    "method": "TCP",
+    "country": "Switzerland",
+    "city": "Geneva",
+    "as": "AS204957 GREEN FLOID LLC",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "109.237.98.214",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
     "city": "Amsterdam",
-    "as": "AS57043 HOSTKEY B.V.",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "176.222.54.31",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS57043 HOSTKEY B.V.",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "178.208.76.68",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216139 Iron Hosting Centre LTD",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "185.94.164.107",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS200740 FIRST SERVER LIMITED",
-    "proxy": "unknown"
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
   },
   {
     "ip": "188.116.26.216",
@@ -346,16 +459,25 @@
     "proxy": "unknown"
   },
   {
-    "ip": "194.26.232.203",
+    "ip": "192.236.249.104",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
-    "city": "Oude Meer",
-    "as": "AS211381 Podaon SIA",
+    "city": "Amsterdam",
+    "as": "AS54290 Hostwinds LLC.",
     "proxy": "unknown"
   },
   {
-    "ip": "212.34.153.65",
+    "ip": "192.236.249.94",
+    "port": "443",
+    "method": "TCP",
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "as": "AS54290 Hostwinds LLC.",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "194.164.32.32",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
@@ -364,21 +486,39 @@
     "proxy": "unknown"
   },
   {
-    "ip": "31.44.2.57",
+    "ip": "195.133.38.227",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
     "city": "Amsterdam",
-    "as": "AS208951 ITGLOBAL.COM",
+    "as": "AS216475 NKtelecom INC",
     "proxy": "unknown"
   },
   {
-    "ip": "37.1.203.192",
+    "ip": "195.200.26.225",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
     "city": "Amsterdam",
-    "as": "AS58061 Scalaxy B.V.",
+    "as": "AS216071 SERVERS TECH FZCO",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "212.34.148.31",
+    "port": "443",
+    "method": "TCP",
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "as": "AS216071 SERVERS TECH FZCO",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "212.34.152.224",
+    "port": "443",
+    "method": "TCP",
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "as": "AS216071 SERVERS TECH FZCO",
     "proxy": "unknown"
   },
   {
@@ -391,43 +531,34 @@
     "proxy": "unknown"
   },
   {
-    "ip": "5.2.75.70",
+    "ip": "37.1.221.155",
+    "port": "443",
+    "method": "TCP",
+    "country": "The Netherlands",
+    "city": "Meppel",
+    "as": "AS58061 Scalaxy B.V.",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "38.180.133.83",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
     "city": "Amsterdam",
-    "as": "AS60404 The Infrastructure Group B.V.",
+    "as": "AS58061 Scalaxy B.V.",
     "proxy": "unknown"
   },
   {
-    "ip": "5.35.46.16",
+    "ip": "45.8.145.223",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
+    "city": "Meppel",
+    "as": "AS44477 PQ HOSTING PLUS S.R.L.",
     "proxy": "unknown"
   },
   {
-    "ip": "5.35.69.122",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "66.151.42.104",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS57043 HOSTKEY B.V.",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "77.221.155.136",
+    "ip": "5.182.86.130",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
@@ -436,7 +567,16 @@
     "proxy": true
   },
   {
-    "ip": "77.238.226.178",
+    "ip": "86.107.197.239",
+    "port": "443",
+    "method": "TCP",
+    "country": "The Netherlands",
+    "city": "Dronten",
+    "as": "AS202448 MVPS LTD",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "93.183.124.129",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
@@ -445,7 +585,7 @@
     "proxy": "unknown"
   },
   {
-    "ip": "77.238.233.141",
+    "ip": "93.183.91.227",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
@@ -454,138 +594,39 @@
     "proxy": "unknown"
   },
   {
-    "ip": "77.238.242.168",
+    "ip": "95.179.140.212",
     "port": "443",
     "method": "TCP",
     "country": "The Netherlands",
     "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
+    "as": "AS20473 The Constant Company, LLC",
     "proxy": "unknown"
   },
   {
-    "ip": "77.238.247.131",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "77.238.247.93",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "79.137.205.127",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
-  },
-  {
-    "ip": "89.110.109.64",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "89.110.120.29",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "89.110.80.121",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "89.110.84.203",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "89.150.35.129",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216154 CLODO CLOUD SERVICE CO. L.L.C",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "89.208.105.25",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
-  },
-  {
-    "ip": "91.201.112.15",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "93.183.69.31",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS43581 ZTV CORP LLC",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "178.32.58.147",
-    "port": "443",
-    "method": "TCP",
-    "country": "United Kingdom",
-    "city": "Southwark",
-    "as": "AS16276 OVH SAS",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "91.149.202.142",
+    "ip": "185.92.74.88",
     "port": "443",
     "method": "TCP",
     "country": "United Kingdom",
     "city": "London",
-    "as": "AS26383 Baxet Group Inc.",
+    "as": "AS200904 FOXCLOUD LLP",
     "proxy": "unknown"
   },
   {
-    "ip": "91.149.238.88",
+    "ip": "93.114.133.159",
     "port": "443",
     "method": "TCP",
     "country": "United Kingdom",
-    "city": "London",
-    "as": "AS26383 Baxet Group Inc.",
+    "city": "Maidenhead",
+    "as": "AS202448 MVPS LTD",
+    "proxy": "unknown"
+  },
+  {
+    "ip": "34.82.76.253",
+    "port": "443",
+    "method": "TCP",
+    "country": "United States",
+    "city": "The Dalles",
+    "as": "AS396982 Google LLC",
     "proxy": "unknown"
   }
 ]
