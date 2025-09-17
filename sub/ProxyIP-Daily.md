@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Tue, 16 Sep 2025 01:24:01 GMT
+> **Last updated:** Wed, 17 Sep 2025 01:24:11 GMT
 >
 > <br/>
 >
-> **Next update:** Thu, 18 Sep 2025 01:24:01 GMT
+> **Next update:** Fri, 19 Sep 2025 01:24:11 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 54  
+**🔹 Total working proxies:** 55  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (53), HTTP_CONNECT (1)
+**🔹 Success methods:** TCP (54), HTTP_CONNECT (1)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 54     | 100.0%     |
+| 443  | 55     | 100.0%     |
 
 <br/>
 
@@ -117,6 +117,13 @@
 | `103.113.69.46` | Vilnius | AS209847 WorkTitans B.V. | TCP |
 | `195.238.126.94` | Vilnius | AS56630 Melbikomas UAB | TCP |
 
+### 🇵🇱 Poland (2 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `37.233.102.53` | Warsaw | AS198717 Techstorage sp. z o.o. | TCP |
+| `45.82.255.141` | Warsaw | AS44477 PQ HOSTING PLUS S.R.L. | TCP |
+
 ### 🇹🇷 Türkiye (2 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -155,12 +162,6 @@
 |----------|------|--------------------|--------|
 | `109.185.236.240` | Nisporeni | AS8926 Moldtelecom SA | TCP |
 
-### 🇵🇱 Poland (1 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `37.233.102.53` | Warsaw | AS198717 Techstorage sp. z o.o. | TCP |
-
 ### 🇨🇭 Switzerland (1 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -196,6 +197,7 @@
 195.238.126.94
 109.185.236.240
 37.233.102.53
+45.82.255.141
 141.105.70.114
 194.113.106.142
 82.148.30.224
@@ -430,6 +432,15 @@
     "city": "Warsaw",
     "as": "AS198717 Techstorage sp. z o.o.",
     "proxy": true
+  },
+  {
+    "ip": "45.82.255.141",
+    "port": "443",
+    "method": "TCP",
+    "country": "Poland",
+    "city": "Warsaw",
+    "as": "AS44477 PQ HOSTING PLUS S.R.L.",
+    "proxy": "unknown"
   },
   {
     "ip": "141.105.70.114",
