@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Wed, 24 Sep 2025 01:25:55 GMT
+> **Last updated:** Thu, 25 Sep 2025 01:26:40 GMT
 >
 > <br/>
 >
-> **Next update:** Fri, 26 Sep 2025 01:25:55 GMT
+> **Next update:** Sat, 27 Sep 2025 01:26:40 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 54  
+**🔹 Total working proxies:** 55  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (53), HTTP_CONNECT (1)
+**🔹 Success methods:** TCP (54), HTTP_CONNECT (1)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 54     | 100.0%     |
+| 443  | 55     | 100.0%     |
 
 <br/>
 
@@ -83,6 +83,16 @@
 | `91.149.239.62` | Los Angeles | AS26383 Baxet Group Inc. | TCP |
 | `91.149.239.70` | Los Angeles | AS26383 Baxet Group Inc. | TCP |
 
+### 🇸🇪 Sweden (5 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `147.45.72.18` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `185.139.228.126` | Stockholm | AS36007 Kamatera, Inc. | TCP |
+| `46.226.160.150` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `46.226.161.71` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `77.221.140.128` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+
 ### 🌍 Latvia (4 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -91,15 +101,6 @@
 | `216.173.70.192` | Riga | AS42532 SIA VEESP | TCP |
 | `37.128.204.140` | Riga | AS42532 SIA VEESP | TCP |
 | `46.32.187.228` | Riga | AS42532 SIA VEESP | TCP |
-
-### 🇸🇪 Sweden (4 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `147.45.72.18` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `185.139.228.126` | Stockholm | AS36007 Kamatera, Inc. | TCP |
-| `46.226.161.71` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `77.221.140.128` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
 ### 🇵🇱 Poland (3 proxies)
 
@@ -202,6 +203,7 @@
 82.148.30.224
 147.45.72.18
 185.139.228.126
+46.226.160.150
 46.226.161.71
 77.221.140.128
 179.43.176.163
@@ -484,6 +486,15 @@
     "city": "Stockholm",
     "as": "AS36007 Kamatera, Inc.",
     "proxy": "unknown"
+  },
+  {
+    "ip": "46.226.160.150",
+    "port": "443",
+    "method": "TCP",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
   },
   {
     "ip": "46.226.161.71",
