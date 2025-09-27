@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Fri, 26 Sep 2025 01:24:52 GMT
+> **Last updated:** Sat, 27 Sep 2025 01:21:54 GMT
 >
 > <br/>
 >
-> **Next update:** Sun, 28 Sep 2025 01:24:52 GMT
+> **Next update:** Mon, 29 Sep 2025 01:21:54 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 55  
+**🔹 Total working proxies:** 54  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (54), HTTP_CONNECT (1)
+**🔹 Success methods:** TCP (53), HTTP_CONNECT (1)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 55     | 100.0%     |
+| 443  | 54     | 100.0%     |
 
 <br/>
 
@@ -83,16 +83,6 @@
 | `91.149.239.62` | Los Angeles | AS26383 Baxet Group Inc. | TCP |
 | `91.149.239.70` | Los Angeles | AS26383 Baxet Group Inc. | TCP |
 
-### 🇸🇪 Sweden (5 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `147.45.72.18` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `185.139.228.126` | Stockholm | AS36007 Kamatera, Inc. | TCP |
-| `46.226.160.150` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `46.226.161.71` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `77.221.140.128` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-
 ### 🌍 Latvia (4 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -101,6 +91,15 @@
 | `216.173.70.192` | Riga | AS42532 SIA VEESP | TCP |
 | `37.128.204.140` | Riga | AS42532 SIA VEESP | TCP |
 | `46.32.187.228` | Riga | AS42532 SIA VEESP | TCP |
+
+### 🇸🇪 Sweden (4 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `185.139.228.126` | Stockholm | AS36007 Kamatera, Inc. | TCP |
+| `46.226.160.150` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `46.226.161.71` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `77.221.140.128` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
 ### 🇵🇱 Poland (3 proxies)
 
@@ -201,7 +200,6 @@
 45.82.255.141
 141.105.70.114
 82.148.30.224
-147.45.72.18
 185.139.228.126
 46.226.160.150
 46.226.161.71
@@ -468,15 +466,6 @@
     "city": "Moscow",
     "as": "AS50340 JSC Selectel",
     "proxy": "unknown"
-  },
-  {
-    "ip": "147.45.72.18",
-    "port": "443",
-    "method": "TCP",
-    "country": "Sweden",
-    "city": "Stockholm",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
   },
   {
     "ip": "185.139.228.126",
