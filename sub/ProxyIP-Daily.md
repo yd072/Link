@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Mon, 29 Sep 2025 01:26:56 GMT
+> **Last updated:** Tue, 30 Sep 2025 01:25:19 GMT
 >
 > <br/>
 >
-> **Next update:** Wed, 01 Oct 2025 01:26:56 GMT
+> **Next update:** Thu, 02 Oct 2025 01:25:19 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 55  
+**🔹 Total working proxies:** 54  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (54), HTTP_CONNECT (1)
+**🔹 Success methods:** TCP (53), HTTP_CONNECT (1)
 
 <br/>
 
@@ -30,29 +30,13 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 55     | 100.0%     |
+| 443  | 54     | 100.0%     |
 
 <br/>
 
 ## 🫧 Working Proxies by Country
 
 <br/>
-
-### 🇳🇱 The Netherlands (11 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `178.208.76.68` | Amsterdam | AS216139 Iron Hosting Centre LTD | TCP |
-| `185.94.165.183` | Amsterdam | AS200740 FIRST SERVER LIMITED | TCP |
-| `5.45.71.98` | Amsterdam | AS58061 Scalaxy B.V. | TCP |
-| `77.238.234.75` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
-| `77.238.247.131` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
-| `77.238.253.245` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
-| `79.137.205.32` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `89.110.84.203` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
-| `91.184.242.155` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `91.208.162.68` | Amsterdam | AS200019 ALEXHOST SRL | TCP |
-| `91.208.206.103` | Amsterdam | AS200019 ALEXHOST SRL | TCP |
 
 ### 🇫🇮 Finland (10 proxies)
 
@@ -68,6 +52,21 @@
 | `46.8.232.217` | Helsinki | AS56971 AS56971 Cloud | TCP |
 | `95.164.113.130` | Helsinki | AS209847 WorkTitans B.V. | TCP |
 | `95.217.151.107` | Helsinki | AS24940 Hetzner Online GmbH | TCP |
+
+### 🇳🇱 The Netherlands (10 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `178.208.76.68` | Amsterdam | AS216139 Iron Hosting Centre LTD | TCP |
+| `185.94.165.183` | Amsterdam | AS200740 FIRST SERVER LIMITED | TCP |
+| `5.45.71.98` | Amsterdam | AS58061 Scalaxy B.V. | TCP |
+| `77.238.234.75` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `77.238.247.131` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `77.238.253.245` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `89.110.84.203` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `91.184.242.155` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `91.208.162.68` | Amsterdam | AS200019 ALEXHOST SRL | TCP |
+| `91.208.206.103` | Amsterdam | AS200019 ALEXHOST SRL | TCP |
 
 ### 🇺🇸 United States (9 proxies)
 
@@ -213,7 +212,6 @@
 77.238.234.75
 77.238.247.131
 77.238.253.245
-79.137.205.32
 89.110.84.203
 91.184.242.155
 91.208.162.68
@@ -576,15 +574,6 @@
     "city": "Amsterdam",
     "as": "AS216071 SERVERS TECH FZCO",
     "proxy": "unknown"
-  },
-  {
-    "ip": "79.137.205.32",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
   },
   {
     "ip": "89.110.84.203",
