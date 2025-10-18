@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Fri, 17 Oct 2025 01:26:36 GMT
+> **Last updated:** Sat, 18 Oct 2025 01:22:40 GMT
 >
 > <br/>
 >
-> **Next update:** Sun, 19 Oct 2025 01:26:36 GMT
+> **Next update:** Mon, 20 Oct 2025 01:22:40 GMT
 >
 > <br/>
 >
@@ -22,7 +22,7 @@
 **🔹 Total working proxies:** 53  
 **🔹 Countries covered:** 16  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (52), HTTP_CONNECT (1)
+**🔹 Success methods:** TCP (51), HTTP_CONNECT (2)
 
 <br/>
 
@@ -61,7 +61,7 @@
 | `185.94.165.183` | Amsterdam | AS200740 FIRST SERVER LIMITED | TCP |
 | `5.45.71.98` | Amsterdam | AS58061 Scalaxy B.V. | TCP |
 | `77.238.234.75` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
-| `77.238.247.131` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
+| `77.238.247.131` | Amsterdam | AS216071 SERVERS TECH FZCO | HTTP_CONNECT |
 | `89.110.84.203` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
 | `91.184.242.155` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 | `91.208.162.68` | Amsterdam | AS200019 ALEXHOST SRL | TCP |
@@ -572,7 +572,7 @@
   {
     "ip": "77.238.247.131",
     "port": "443",
-    "method": "TCP",
+    "method": "HTTP_CONNECT",
     "country": "The Netherlands",
     "city": "Amsterdam",
     "as": "AS216071 SERVERS TECH FZCO",
