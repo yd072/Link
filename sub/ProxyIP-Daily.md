@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Sat, 25 Oct 2025 01:25:47 GMT
+> **Last updated:** Sun, 26 Oct 2025 01:40:50 GMT
 >
 > <br/>
 >
-> **Next update:** Mon, 27 Oct 2025 01:25:47 GMT
+> **Next update:** Tue, 28 Oct 2025 01:40:50 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 52  
+**🔹 Total working proxies:** 51  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (52)
+**🔹 Success methods:** TCP (51)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 52     | 100.0%     |
+| 443  | 51     | 100.0%     |
 
 <br/>
 
@@ -105,14 +105,6 @@
 | `216.173.70.80` | Riga | AS42532 SIA VEESP | TCP |
 | `91.197.0.63` | Riga | AS42532 SIA VEESP | TCP |
 
-### 🇸🇪 Sweden (3 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `77.221.136.95` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `77.221.141.207` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `89.169.35.112` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-
 ### 🇺🇸 United States (3 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -127,6 +119,13 @@
 |----------|------|--------------------|--------|
 | `185.114.72.148` | Madrid | AS200740 FIRST SERVER LIMITED | TCP |
 | `93.93.119.91` | Madrid | AS8560 IONOS SE | TCP |
+
+### 🇸🇪 Sweden (2 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `77.221.136.95` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `77.221.141.207` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
 ### 🇨🇭 Switzerland (2 proxies)
 
@@ -201,7 +200,6 @@
 93.93.119.91
 77.221.136.95
 77.221.141.207
-89.169.35.112
 38.180.15.45
 45.85.93.49
 109.107.165.225
@@ -483,15 +481,6 @@
   },
   {
     "ip": "77.221.141.207",
-    "port": "443",
-    "method": "TCP",
-    "country": "Sweden",
-    "city": "Stockholm",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
-  },
-  {
-    "ip": "89.169.35.112",
     "port": "443",
     "method": "TCP",
     "country": "Sweden",
