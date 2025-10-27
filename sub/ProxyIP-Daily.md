@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Sun, 26 Oct 2025 01:40:50 GMT
+> **Last updated:** Mon, 27 Oct 2025 01:44:30 GMT
 >
 > <br/>
 >
-> **Next update:** Tue, 28 Oct 2025 01:40:50 GMT
+> **Next update:** Wed, 29 Oct 2025 01:44:30 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 51  
+**🔹 Total working proxies:** 48  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (51)
+**🔹 Success methods:** TCP (48)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 51     | 100.0%     |
+| 443  | 48     | 100.0%     |
 
 <br/>
 
@@ -58,17 +58,15 @@
 | `91.184.242.46` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 | `91.184.242.63` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
-### 🇫🇮 Finland (7 proxies)
+### 🇫🇮 Finland (5 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
 |----------|------|--------------------|--------|
 | `176.124.220.175` | Helsinki | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `178.236.244.16` | Helsinki | AS210644 AEZA INTERNATIONAL LTD | TCP |
 | `185.112.82.28` | Helsinki | AS51765 Oy Creanova Hosting Solutions Ltd. | TCP |
 | `185.117.119.143` | Helsinki | AS200740 FIRST SERVER LIMITED | TCP |
 | `185.188.181.15` | Helsinki | AS207569 I-SERVERS LTD | TCP |
 | `185.188.181.49` | Helsinki | AS207569 I-SERVERS LTD | TCP |
-| `194.67.200.82` | Helsinki | AS207569 I-SERVERS LTD | TCP |
 
 ### 🇦🇹 Austria (4 proxies)
 
@@ -120,13 +118,6 @@
 | `185.114.72.148` | Madrid | AS200740 FIRST SERVER LIMITED | TCP |
 | `93.93.119.91` | Madrid | AS8560 IONOS SE | TCP |
 
-### 🇸🇪 Sweden (2 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `77.221.136.95` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `77.221.141.207` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-
 ### 🇨🇭 Switzerland (2 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -145,6 +136,12 @@
 | Proxy IP | City | ISP / Organization | Method |
 |----------|------|--------------------|--------|
 | `54.37.235.201` | Wroclaw | AS16276 OVH SAS | TCP |
+
+### 🇸🇪 Sweden (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `77.221.141.207` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
 ### 🇹🇷 Türkiye (1 proxies)
 
@@ -177,12 +174,10 @@
 94.177.8.3
 94.177.8.48
 176.124.220.175
-178.236.244.16
 185.112.82.28
 185.117.119.143
 185.188.181.15
 185.188.181.49
-194.67.200.82
 193.122.58.158
 194.164.59.222
 217.160.216.30
@@ -198,7 +193,6 @@
 89.248.207.37
 185.114.72.148
 93.93.119.91
-77.221.136.95
 77.221.141.207
 38.180.15.45
 45.85.93.49
@@ -282,15 +276,6 @@
     "proxy": true
   },
   {
-    "ip": "178.236.244.16",
-    "port": "443",
-    "method": "TCP",
-    "country": "Finland",
-    "city": "Helsinki",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
-  },
-  {
     "ip": "185.112.82.28",
     "port": "443",
     "method": "TCP",
@@ -319,15 +304,6 @@
   },
   {
     "ip": "185.188.181.49",
-    "port": "443",
-    "method": "TCP",
-    "country": "Finland",
-    "city": "Helsinki",
-    "as": "AS207569 I-SERVERS LTD",
-    "proxy": "unknown"
-  },
-  {
-    "ip": "194.67.200.82",
     "port": "443",
     "method": "TCP",
     "country": "Finland",
@@ -469,15 +445,6 @@
     "city": "Madrid",
     "as": "AS8560 IONOS SE",
     "proxy": "unknown"
-  },
-  {
-    "ip": "77.221.136.95",
-    "port": "443",
-    "method": "TCP",
-    "country": "Sweden",
-    "city": "Stockholm",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
   },
   {
     "ip": "77.221.141.207",
