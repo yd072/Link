@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Mon, 27 Oct 2025 01:44:30 GMT
+> **Last updated:** Tue, 28 Oct 2025 01:27:11 GMT
 >
 > <br/>
 >
-> **Next update:** Wed, 29 Oct 2025 01:44:30 GMT
+> **Next update:** Thu, 30 Oct 2025 01:27:11 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 48  
+**🔹 Total working proxies:** 46  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (48)
+**🔹 Success methods:** TCP (46)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 48     | 100.0%     |
+| 443  | 46     | 100.0%     |
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-### 🇳🇱 The Netherlands (15 proxies)
+### 🇳🇱 The Netherlands (14 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
 |----------|------|--------------------|--------|
@@ -48,7 +48,6 @@
 | `212.34.149.185` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
 | `45.159.188.249` | Amsterdam | AS14576 Hosting Solution Ltd. | TCP |
 | `77.238.241.143` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
-| `79.137.194.243` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 | `88.218.248.195` | Amsterdam | AS215346 Big Data Host LLC | TCP |
 | `89.110.107.122` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
 | `89.110.121.61` | Amsterdam | AS216071 SERVERS TECH FZCO | TCP |
@@ -58,16 +57,6 @@
 | `91.184.242.46` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 | `91.184.242.63` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
-### 🇫🇮 Finland (5 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `176.124.220.175` | Helsinki | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `185.112.82.28` | Helsinki | AS51765 Oy Creanova Hosting Solutions Ltd. | TCP |
-| `185.117.119.143` | Helsinki | AS200740 FIRST SERVER LIMITED | TCP |
-| `185.188.181.15` | Helsinki | AS207569 I-SERVERS LTD | TCP |
-| `185.188.181.49` | Helsinki | AS207569 I-SERVERS LTD | TCP |
-
 ### 🇦🇹 Austria (4 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -76,6 +65,15 @@
 | `94.177.8.23` | Wien | AS40994 Hohl IT e.U. | TCP |
 | `94.177.8.3` | Wien | AS40994 Hohl IT e.U. | TCP |
 | `94.177.8.48` | Wien | AS40994 Hohl IT e.U. | TCP |
+
+### 🇫🇮 Finland (4 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `185.112.82.28` | Helsinki | AS51765 Oy Creanova Hosting Solutions Ltd. | TCP |
+| `185.117.119.143` | Helsinki | AS200740 FIRST SERVER LIMITED | TCP |
+| `185.188.181.15` | Helsinki | AS207569 I-SERVERS LTD | TCP |
+| `185.188.181.49` | Helsinki | AS207569 I-SERVERS LTD | TCP |
 
 ### 🇩🇪 Germany (4 proxies)
 
@@ -173,7 +171,6 @@
 94.177.8.23
 94.177.8.3
 94.177.8.48
-176.124.220.175
 185.112.82.28
 185.117.119.143
 185.188.181.15
@@ -202,7 +199,6 @@
 212.34.149.185
 45.159.188.249
 77.238.241.143
-79.137.194.243
 88.218.248.195
 89.110.107.122
 89.110.121.61
@@ -265,15 +261,6 @@
     "city": "Wien",
     "as": "AS40994 Hohl IT e.U.",
     "proxy": "unknown"
-  },
-  {
-    "ip": "176.124.220.175",
-    "port": "443",
-    "method": "TCP",
-    "country": "Finland",
-    "city": "Helsinki",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
   },
   {
     "ip": "185.112.82.28",
@@ -525,15 +512,6 @@
     "country": "The Netherlands",
     "city": "Amsterdam",
     "as": "AS216071 SERVERS TECH FZCO",
-    "proxy": true
-  },
-  {
-    "ip": "79.137.194.243",
-    "port": "443",
-    "method": "TCP",
-    "country": "The Netherlands",
-    "city": "Amsterdam",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
     "proxy": true
   },
   {
