@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Tue, 28 Oct 2025 01:27:11 GMT
+> **Last updated:** Wed, 29 Oct 2025 01:41:38 GMT
 >
 > <br/>
 >
-> **Next update:** Thu, 30 Oct 2025 01:27:11 GMT
+> **Next update:** Fri, 31 Oct 2025 01:41:38 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 46  
+**🔹 Total working proxies:** 47  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (46)
+**🔹 Success methods:** TCP (47)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 46     | 100.0%     |
+| 443  | 47     | 100.0%     |
 
 <br/>
 
@@ -57,6 +57,16 @@
 | `91.184.242.46` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 | `91.184.242.63` | Amsterdam | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
+### 🇫🇮 Finland (5 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `176.124.220.175` | Helsinki | AS210644 AEZA INTERNATIONAL LTD | TCP |
+| `185.112.82.28` | Helsinki | AS51765 Oy Creanova Hosting Solutions Ltd. | TCP |
+| `185.117.119.143` | Helsinki | AS200740 FIRST SERVER LIMITED | TCP |
+| `185.188.181.15` | Helsinki | AS207569 I-SERVERS LTD | TCP |
+| `185.188.181.49` | Helsinki | AS207569 I-SERVERS LTD | TCP |
+
 ### 🇦🇹 Austria (4 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -65,15 +75,6 @@
 | `94.177.8.23` | Wien | AS40994 Hohl IT e.U. | TCP |
 | `94.177.8.3` | Wien | AS40994 Hohl IT e.U. | TCP |
 | `94.177.8.48` | Wien | AS40994 Hohl IT e.U. | TCP |
-
-### 🇫🇮 Finland (4 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `185.112.82.28` | Helsinki | AS51765 Oy Creanova Hosting Solutions Ltd. | TCP |
-| `185.117.119.143` | Helsinki | AS200740 FIRST SERVER LIMITED | TCP |
-| `185.188.181.15` | Helsinki | AS207569 I-SERVERS LTD | TCP |
-| `185.188.181.49` | Helsinki | AS207569 I-SERVERS LTD | TCP |
 
 ### 🇩🇪 Germany (4 proxies)
 
@@ -171,6 +172,7 @@
 94.177.8.23
 94.177.8.3
 94.177.8.48
+176.124.220.175
 185.112.82.28
 185.117.119.143
 185.188.181.15
@@ -261,6 +263,15 @@
     "city": "Wien",
     "as": "AS40994 Hohl IT e.U.",
     "proxy": "unknown"
+  },
+  {
+    "ip": "176.124.220.175",
+    "port": "443",
+    "method": "TCP",
+    "country": "Finland",
+    "city": "Helsinki",
+    "as": "AS210644 AEZA INTERNATIONAL LTD",
+    "proxy": true
   },
   {
     "ip": "185.112.82.28",
