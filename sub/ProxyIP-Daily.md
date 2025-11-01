@@ -6,11 +6,11 @@
 >
 > <br/>
 >
-> **Last updated:** Fri, 31 Oct 2025 01:29:37 GMT
+> **Last updated:** Sat, 01 Nov 2025 01:41:40 GMT
 >
 > <br/>
 >
-> **Next update:** Sun, 02 Nov 2025 01:29:37 GMT
+> **Next update:** Mon, 03 Nov 2025 01:41:40 GMT
 >
 > <br/>
 >
@@ -19,10 +19,10 @@
 
 ## 📊 Summary
 
-**🔹 Total working proxies:** 48  
+**🔹 Total working proxies:** 47  
 **🔹 Countries covered:** 15  
 **🔹 Different ports:** 1  
-**🔹 Success methods:** TCP (48)
+**🔹 Success methods:** TCP (47)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 | Port | Count | Percentage |
 |------|-------|------------|
-| 443  | 48     | 100.0%     |
+| 443  | 47     | 100.0%     |
 
 <br/>
 
@@ -117,13 +117,6 @@
 | `185.114.72.148` | Madrid | AS200740 FIRST SERVER LIMITED | TCP |
 | `93.93.119.91` | Madrid | AS8560 IONOS SE | TCP |
 
-### 🇸🇪 Sweden (2 proxies)
-
-| Proxy IP | City | ISP / Organization | Method |
-|----------|------|--------------------|--------|
-| `77.221.141.207` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-| `89.169.35.112` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
-
 ### 🇨🇭 Switzerland (2 proxies)
 
 | Proxy IP | City | ISP / Organization | Method |
@@ -142,6 +135,12 @@
 | Proxy IP | City | ISP / Organization | Method |
 |----------|------|--------------------|--------|
 | `54.37.235.201` | Wroclaw | AS16276 OVH SAS | TCP |
+
+### 🇸🇪 Sweden (1 proxies)
+
+| Proxy IP | City | ISP / Organization | Method |
+|----------|------|--------------------|--------|
+| `77.221.141.207` | Stockholm | AS210644 AEZA INTERNATIONAL LTD | TCP |
 
 ### 🇹🇷 Türkiye (1 proxies)
 
@@ -194,7 +193,6 @@
 185.114.72.148
 93.93.119.91
 77.221.141.207
-89.169.35.112
 38.180.15.45
 45.85.93.49
 109.107.165.225
@@ -448,15 +446,6 @@
   },
   {
     "ip": "77.221.141.207",
-    "port": "443",
-    "method": "TCP",
-    "country": "Sweden",
-    "city": "Stockholm",
-    "as": "AS210644 AEZA INTERNATIONAL LTD",
-    "proxy": true
-  },
-  {
-    "ip": "89.169.35.112",
     "port": "443",
     "method": "TCP",
     "country": "Sweden",
